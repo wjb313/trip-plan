@@ -1,0 +1,12 @@
+{
+  "name": "trip-plan",
+  "version": "1.0.0",
+  "description": "This project is a trip planner app. It is a nodejs/express app project for js bootcamp.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wjb",
+  "license": "TheUnlicense"
+}
